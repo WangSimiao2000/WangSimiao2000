@@ -1,9 +1,11 @@
-- 👋 你好,我是 @WangSimiao2000
-- 👀 西南石油大学软将工程2019级本科生
-- 🌱 喜欢画画,看小说,玩游戏
-- 💞️ 在学Unity3D,UnityShader,C#
-- 📫 QQ:1872557359 微信:SiMiao1106
+# The Github of WangSimiao2000
 
-<!---
-保持独立思考,不卑不亢不怂,长成自己喜欢的样子
---->
+## Information
+
+* 西南石油大学2019级软件工程 本科在读
+* 在学Unity3D,UnityShader,C#
+* QQ:1872557359 微信:SiMiao1106
+
+## Summary
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WangSimiao2000&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
