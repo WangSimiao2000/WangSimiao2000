@@ -5,6 +5,7 @@
 * 西南石油大学2019级软件工程 本科在读
 * 在学Unity3D,UnityShader,C#
 * QQ:1872557359 微信:SiMiao1106
+* 个人博客: blog.mickeymiao.top
 
 ## Summary
 
