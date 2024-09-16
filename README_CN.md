@@ -2,9 +2,11 @@
 
 [Switch to English](README.md)
 
-[![Bilibili@鄙人米奇喵](https://img.shields.io/badge/Bilibili-鄙人米奇喵-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/36913332)
+[![Bilibili: 鄙人米奇喵](https://img.shields.io/badge/Bilibili-鄙人米奇喵-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/36913332)
 [![Steam: MickeyMiao](https://img.shields.io/badge/Steam-MickeyMiao-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MickeyMiao/)
 [![GitHub: WangSimiao2000](https://img.shields.io/badge/GitHub-WangSimiao2000-181717?style=for-the-badge&logo=github)](https://github.com/WangSimiao2000)
+[![下载我的简历](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+
 
 *硕士毕业于 [利兹大学](https://www.leeds.ac.uk) 高性能图形与游戏工程专业*  
 *本科毕业于 [西南石油大学](https://www.swpu.edu.cn) 软件工程专业*
