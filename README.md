@@ -25,4 +25,4 @@
 
 Download my Resume:
 
-[![Download my Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WangSimiao_07.pdf)
+[![Download my Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WangSimiao.pdf)
