@@ -25,4 +25,4 @@
 
 下载个人简历:
 
-[![下载我的简历](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WangSimiao_07.pdf)
+[![下载我的简历](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WangSimiao.pdf)
