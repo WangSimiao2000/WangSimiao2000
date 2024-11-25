@@ -2,7 +2,7 @@
 
 [切换成中文](README_CN.md)
 
-个人博客:[https://wangsimiao2000.github.io/](https://wangsimiao2000.github.io/)
+MyBlog: [https://wangsimiao2000.github.io/](https://wangsimiao2000.github.io/)
 
 [![Bilibili@鄙人米奇喵](https://img.shields.io/badge/Bilibili-鄙人米奇喵-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/36913332)
 [![Steam: MickeyMiao](https://img.shields.io/badge/Steam-MickeyMiao-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MickeyMiao/)
