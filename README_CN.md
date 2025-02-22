@@ -1,4 +1,4 @@
-## 你吼，我是米奇喵！
+## 你好，我是米奇喵！
 
 [Switch to English](README.md)
 
