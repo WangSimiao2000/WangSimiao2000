@@ -17,6 +17,8 @@ MyBlog: [https://wangsimiao2000.github.io/](https://wangsimiao2000.github.io/)
 - **Education:** 
   - 🎓 Master's in High-Performance Graphics and Games Engineering
   - 🎓 Bachelor's in Software Engineering
+- **WorkExperience:**
+  - 🏢 Beijing Xiaomi Mobile Software Co., Ltd. - Graphic Rendering Development Engineer
 
 ![WangSimiao2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangSimiao2000&show_icons=true&hide=stars,issues)
 
